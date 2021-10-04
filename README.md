@@ -15,3 +15,8 @@
 [PREGUNTAS ARBOLES DE DECISION](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Preguntas%20equipo%205.pdf)
 
 [EJEMPLO ARBOLES DE DESICION](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Ej_ArbolDecision_Equipo5.ipynb)
+
+[PRÁCTICA DE VISUALIZACIÓN]()
+
+[AVANCE II PIA](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Avance2_PIA_001_Equipo5.ipynb)
+
