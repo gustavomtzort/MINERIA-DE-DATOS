@@ -22,3 +22,5 @@
 
 [EJERCICIO TÉCNICAS DE MINERÍA DE DATOS](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Ejercicio_de_t%C3%A9cnicas_de_m%C3%ADneria.ipynb)
 
+# FASE III
+[NOTEBOOK FINAL PIA](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Notebook_Final.ipynb)
