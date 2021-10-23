@@ -24,3 +24,7 @@
 
 # FASE III
 [NOTEBOOK FINAL PIA](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Notebook_Final.ipynb)
+
+# PIA
+
+[POSTER PIA](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Poster_Equipo_5.pdf)
